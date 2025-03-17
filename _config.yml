@@ -41,7 +41,7 @@ defaults:
       type: "posts"
     values: 
         layout: "post"
-        permalink: "/blog/:year/:month/:day/" 
+        permalink: "/blog/:year/:month/:day/:title/" 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
