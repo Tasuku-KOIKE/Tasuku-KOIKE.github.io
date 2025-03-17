@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-17T17:00:22+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Peripatetic aide-mémoire</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/2025/03/17/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-03-17T13:42:29+09:00</published><updated>2025-03-17T13:42:29+09:00</updated><id>http://localhost:4000/blog/2025/03/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/2025/03/17/"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Poetry</title><link href="http://localhost:4000/blog/2025/03/17/" rel="alternate" type="text/html" title="Poetry" /><published>2025-03-17T00:00:00+09:00</published><updated>2025-03-17T00:00:00+09:00</updated><id>http://localhost:4000/blog/2025/03/poetry</id><content type="html" xml:base="http://localhost:4000/blog/2025/03/17/"><![CDATA[<blockquote>
+  <p>‘Oh Maud, why don’t you marry me and give up this tragic struggle and live a peaceful life? I could make such a beautiful life for you among artists and writers who would understand you.’</p>
+
+  <p>　</p>
+
+  <p>‘Willie, are you not tired of asking that question? How often have I told you to thank the gods that I will not marry you. You would not be happy with me.’</p>
+
+  <p>　</p>
+
+  <p>‘I am not happy without you.’</p>
+
+  <p>　</p>
+
+  <p>‘Oh yes, you are, because you make beautiful poetry out of what you call your unhappiness and you are happy in that. Marriage would be such a dull affair. Poets should never marry. The world should thank me for not marrying you.’</p>
+
+  <p>　</p>
+
+  <p>A. Norman Jeffares <i>W. B. Yeats: a new biography</i> (1988), p. 102<p> 
+</p></p>
+</blockquote>
+
+<p style="text-align: start; margin-top: 1em;"> 
+ねえマード、こんな悲しい生き方はもうやめて、これからは一緒に僕と静かに過ごそうよ。僕だったら、きっときみのことを理解してくれる芸術家と作家たちのなかで、きみのために素晴らしい人生を作ってあげられるのに。
+</p>
+
+<p style="text-align: start; margin-top: 1em;"> 
+ウィリー、あなたってば、いつまで私に同じことを訊くつもり？　私があなたと一緒にいないってことは、あなたの方こそありがたく思うべきだって言ってるでしょう。きっと私がいなくたって、それでもあなたは幸せでいられるわ。
+</p>
+
+<p style="text-align: start; margin-top: 1em;"> 
+<s>　　</s>きみがいなければ僕はうれしくないよ。
+</p>
+
+<p style="text-align: start; margin-top: 1em;"> 
+あら、もちろんそんなことないわよ。だってあなたは自分が不幸せだ、っていうこの毎日で、とっても美しい詩が書けてそれで幸せじゃない。大体ね、だれかと結婚するだなんて、すっごく面倒なことよ。詩人は一生結婚するべきじゃないわ。私があなたと結婚しないのは、世界が私に感謝しているべきなのよ。
+</p>
+
+<center><p style="margin-top: 0.5em; margin-bottom: 0.5em;"> <span style="font-size: 80%">☆　☆　☆</span> </p></center>
+
+<blockquote>
+  <p>I’ve wanted to read you a very short poem from W. B. Yeats, who some of you may know. He wrote this to his love, Maud Gonne, and he was bewailing the fact that he couldn’t really give her what he thought she wanted from him.</p>
+
+  <p>　</p>
+
+  <p>And he says, ‘‘I’ve got something else, but it may not be for you.” – He says this:</p>
+
+  <p>　</p>
+
+  <p>Ken Robinson | Bring on the learning revolution!<br />
+<a href="https://youtu.be/kFMZrEABdw4?&amp;t=984">https://youtu.be/kFMZrEABdw4?&amp;t=984</a></p>
+</blockquote>
+
+<center> <p style="margin-top: 0.5em;"> 
+かれは天空の絨毯を願う
+</p> 
+
+<p style="text-align: start; width: 85%; margin-top: 0.5em;"> 
+<ruby><rb>天の</rb><rp> (</rp><rt>そら</rt><rp>) </rp></ruby>刺繍があったなら --- <br />
+月日の金銀色で縫う、<br />
+青い、淡い、暗い布、 <br />
+夜中と<ruby><rb>日中</rb><rp> (</rp><rt>ひなか</rt><rp>) </rp></ruby>と夕暮れの ---、<br />
+君の足もとに敷いただろう。<br />
+だが　貧しく、夢しかない僕は<br />
+君の足もとに夢を敷く: きっと優しく<br />
+踏み<ruby><rb>行</rb><rp> (</rp><rt>ゆ</rt><rp>) </rp></ruby>いておくれ、君が歩むのは夢だから。<br />
+</p> </center>
+
+<p>　
+　</p>
+
+<p>　</p>
+
+<p>　</p>]]></content><author><name></name></author><summary type="html"><![CDATA[‘Oh Maud, why don’t you marry me and give up this tragic struggle and live a peaceful life? I could make such a beautiful life for you among artists and writers who would understand you.’ 　 ‘Willie, are you not tired of asking that question? How often have I told you to thank the gods that I will not marry you. You would not be happy with me.’ 　 ‘I am not happy without you.’ 　 ‘Oh yes, you are, because you make beautiful poetry out of what you call your unhappiness and you are happy in that. Marriage would be such a dull affair. Poets should never marry. The world should thank me for not marrying you.’ 　 A. Norman Jeffares W. B. Yeats: a new biography (1988), p. 102]]></summary></entry><entry><title type="html">new title</title><link href="http://localhost:4000/blog/2025/03/14/" rel="alternate" type="text/html" title="new title" /><published>2025-03-14T16:46:32+09:00</published><updated>2025-03-14T16:46:32+09:00</updated><id>http://localhost:4000/blog/2025/03/my-first-blog-post</id><content type="html" xml:base="http://localhost:4000/blog/2025/03/14/"><![CDATA[<p><em>godlike</em></p>]]></content><author><name></name></author><summary type="html"><![CDATA[godlike]]></summary></entry></feed>
