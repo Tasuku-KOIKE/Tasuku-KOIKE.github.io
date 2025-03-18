@@ -1,5 +1,5 @@
 ﻿---
-title: 相手にしない 
+title: "相手にしない"
 ---
 
 <center><figure class="" title="William Blake's Notebook, 1808"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Blake_manuscript_-_Notebook_1808_-_16_Hes_a_Blockhead_who_wants_a_proof_of_what_he.jpg" alt="Trulli">
@@ -15,8 +15,9 @@ title: 相手にしない
         -   着ている服や住んでいる部屋といったものは、しばらく使わないでいるとよそよそしくなってくる、それだけ身の回りのものは自分と呼吸をしあっている
         -   大福屋で働いてる人が大福みたいな顔をしていた、とその向いの茶漬け屋だった兄が話していたのにも何かがあるのかもしれない (?)
         -   このような測りづらくても確かに存在する相互作用というものがある
-    -   「けんかはすると似てきます。けんかも簡単にできないです。」(中井久夫・鶴見俊輔「あいまいさでつかむ思想」)
-        - "The best revenge is not to be like your enemy"  (敵に対する最大の復讐は、自分がその敵のようにならないことだ ~~　　~~ Meditations, 6.6)
+    -   けんかはすると似てきます。けんかも "うっかりできない" です。(中井久夫・鶴見俊輔「あいまいさでつかむ思想」)
+        - "The best revenge is not to be like your enemy." (Aurelius, Meditations, 6.6)
+        - 「敵に対する最大の復讐は、自分がその敵のようにならないことだ」 
         -   もしそうだとすれば、その復讐はその敵を相手にしないことから始まる
         -   けんかはすると似てくるし、愛の反対は嫌悪ではなく無関心だから
         -   執着をいだいてはいけない、固着を手放さなきゃいけない
@@ -25,7 +26,7 @@ title: 相手にしない
     -   したがって、愚か者の相手をするものもまた愚か
         -   というのが (小5からインターネットにいる自分なりの) モットー
         -   ライオンのごとき王者がハエ叩きに成り下がってはいけない
-        -   “It’s not that the capitalism is itself moral; it’s that we have made the immoral profitable” (Milton Friedman, Is Capitalism Humane?)
+        -   It’s not that the capitalism is itself moral; it’s that we have made the immoral profitable (Milton Friedman, Is Capitalism Humane?)
         -   $\mathrm{money / capitalist ~ economy ~ \cong ~ views / attention ~ economy}$
 
 <center><p>He’s a blockhead who wants a proof of what he can’t perceive, <br>
@@ -56,13 +57,22 @@ Plato, Symposium, the speech of Pausanias, 184c-185a (tr. Benjamin Jowett) <br>
 中井久夫「住む場所の力」『記憶の肖像』pp. 156-7 
 </blockquote> 
 
-<blockquote>
-中井　 建物というのは、人間と呼吸し合いながら生きていますよ。僕は、実感としてそう思ってる。書斎でも、一週間もいないと荒れてしまう。空気がザラザラして来るという感じがします。住宅公団でも、一週間に一回、空き家の風通しをやるために人を雇ってるそうですね。<br>
-<br> 
-中井久夫「都市、明日の姿（対談者・磯崎新）」『「伝える」ことと「伝わる」こと』p. 121
-</blockquote> 
+> 中井　[...] 互いに仇敵だけど、意識してると似てくるんです。アメリカも日本と戦ってだいぶ日本に似てきました。喧嘩もうっかりできないです。
+> 
+> 中井久夫・鶴見俊輔「あいまいさでつかむ思想」『鶴見俊輔　いつもあたらしい思想家』p. 16 
 
-[https://www.youtube.com/watch?v=27Tf8RN3uiM](https://www.youtube.com/watch?v=27Tf8RN3uiM)
+<blockquote>
+Ἄριστος τρόπος τοῦ ἀμύνεσθαι τὸ μὴ ἐξομοιοῦσθαι. <br> 
+The best revenge is not to be like your enemy. <br>
+<br> 
+Marcus Aurelius, Meditations, 6.6 (tr. Martin Hammond, Penguin Classics)  
+https://www.perseus.tufts.edu/hopper/text?doc=Aur.+6.6&fromdoc=Perseus%3Atext%3A2008.01.0641
+</blockquote>
+
+> There is an additional reason why you have had a decline in the moral climate. You'll pardon me for returning to my discipline of economics, but there is a fundamental economic law which has never been contradicted to the best of my knowledge and that is, if you pay more for something there will tend to be more of that something available. If the amount you are willing to pay for anything goes up, somehow or other somebody will supply more of that thing. We have made immoral behavior far more profitable. We have, in the course of the changes in our society, been establishing greater and greater incentives on people to behave in ways that most of us regard as immoral. On each of us separately, we've all been doing it.<br>
+> 
+> Milton Friedman Speaks: Is Capitalism Humane?  (1978)  
+> https://youtu.be/27Tf8RN3uiM&t=1660 
 
 > Please help me, and help us, by leading the comments over there and being nice to people, and just, if there's folks who isn't [being respectful], just don't reply, just... just let it fall out into nothingness.
 > 
