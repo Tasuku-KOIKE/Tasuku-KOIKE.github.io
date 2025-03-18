@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Peripatetic aide-mémoire
+title: Peripatetic aide-mémoires
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -43,7 +43,7 @@ defaults:
         layout: "post"
         permalink: "/blog/:year/:month/:day/:title/"
 
-markdown: kramdown 
+markdown: kramdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
