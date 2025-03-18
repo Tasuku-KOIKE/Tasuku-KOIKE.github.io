@@ -65,16 +65,15 @@ Plato, Symposium, the speech of Pausanias, 184c-185a (tr. Benjamin Jowett) <br>
 Ἄριστος τρόπος τοῦ ἀμύνεσθαι τὸ μὴ ἐξομοιοῦσθαι. <br>
 The best revenge is not to be like your enemy. <br>
 <br>
-Marcus Aurelius, Meditations, 6.6 (tr. Martin Hammond, Penguin Classics)
-<a href="https://www.perseus.tufts.edu/hopper/text?doc=Aur.+6.6&fromdoc=Perseus%3Atext%3A2008.01.0641">https://www.perseus.tufts.edu/hopper/text?doc=Aur.+6.6&fromdoc=Perseus%3Atext%3A2008.01.0641</a>
+Marcus Aurelius, Meditations, <a href="https://www.perseus.tufts.edu/hopper/text?doc=Aur.+6.6">6.6</a> (tr. Martin Hammond, Penguin Classics)
 </blockquote>
 
 > There is an additional reason why you have had a decline in the moral climate. You'll pardon me for returning to my discipline of economics, but there is a fundamental economic law which has never been contradicted to the best of my knowledge and that is, if you pay more for something there will tend to be more of that something available. If the amount you are willing to pay for anything goes up, somehow or other somebody will supply more of that thing. We have made immoral behavior far more profitable. We have, in the course of the changes in our society, been establishing greater and greater incentives on people to behave in ways that most of us regard as immoral. On each of us separately, we've all been doing it.<br>
 >
 > Milton Friedman Speaks: Is Capitalism Humane?  (1978)
-> https://youtu.be/27Tf8RN3uiM&t=1660
+> [https://youtu.be/27Tf8RN3uiM&t=1660](https://youtu.be/27Tf8RN3uiM&t=1660)
 
 > Please help me, and help us, by leading the comments over there and being nice to people, and just, if there's folks who isn't [being respectful], just don't reply, just... just let it fall out into nothingness.
 >
-> Tom Scott  
+> Tom Scott
 > [https://youtu.be/Ufbme0Iefs0&t=77](https://youtu.be/Ufbme0Iefs0&t=77)
