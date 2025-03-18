@@ -26,7 +26,7 @@ title: "相手にしない"
     -   したがって、愚か者の相手をするものもまた愚か
         -   というのが (小5からインターネットにいる自分なりの) モットー
         -   ライオンのごとき王者がハエ叩きに成り下がってはいけない
-        -   It’s not that the capitalism is itself moral; it’s that we have made the immoral profitable (Milton Friedman, Is Capitalism Humane?)
+        -   It’s not that the capitalism is itself immoral; it’s that we have made the immoral profitable (Milton Friedman, Is Capitalism Humane?)
         -   \$$\mathrm{money / capitalist ~ economy ~ \cong ~ views / attention ~ economy}$$
 
 <center><p>He’s a blockhead who wants a proof of what he can’t perceive, <br>
