@@ -3,7 +3,7 @@ title: "相手にしない"
 ---
 
 <center><figure class="" title="William Blake's Notebook, 1808"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Blake_manuscript_-_Notebook_1808_-_16_Hes_a_Blockhead_who_wants_a_proof_of_what_he.jpg" alt="Trulli">
-<figcaption><center>From William Blake's Notebook, 1808</center></figcaption></figure> </center> 
+<figcaption><center>From William Blake's Notebook, 1808</center></figcaption></figure> </center>
 
 -   人間は、何に笑うかによって、何よりもよく自身の性格を示す (Goethe)
 -   人間は、どのような失敗をするかによって、何よりもよく自身の性格を示す (Plato)
@@ -17,7 +17,7 @@ title: "相手にしない"
         -   このような測りづらくても確かに存在する相互作用というものがある
     -   けんかはすると似てきます。けんかも "うっかりできない" です。(中井久夫・鶴見俊輔「あいまいさでつかむ思想」)
         - "The best revenge is not to be like your enemy." (Aurelius, Meditations, 6.6)
-        - 「敵に対する最大の復讐は、自分がその敵のようにならないことだ」 
+        - 「敵に対する最大の復讐は、自分がその敵のようにならないことだ」
         -   もしそうだとすれば、その復讐はその敵を相手にしないことから始まる
         -   けんかはすると似てくるし、愛の反対は嫌悪ではなく無関心だから
         -   執着をいだいてはいけない、固着を手放さなきゃいけない
@@ -27,7 +27,7 @@ title: "相手にしない"
         -   というのが (小5からインターネットにいる自分なりの) モットー
         -   ライオンのごとき王者がハエ叩きに成り下がってはいけない
         -   It’s not that the capitalism is itself moral; it’s that we have made the immoral profitable (Milton Friedman, Is Capitalism Humane?)
-        -   $\mathrm{money / capitalist ~ economy ~ \cong ~ views / attention ~ economy}$
+        -   $$\mathrm{money / capitalist ~ economy ~ \cong ~ views / attention ~ economy}$$
 
 <center><p>He’s a blockhead who wants a proof of what he can’t perceive, <br>
 And he’s a fool who tries to make such a blockhead believe. <br>
@@ -54,27 +54,27 @@ Plato, Symposium, the speech of Pausanias, 184c-185a (tr. Benjamin Jowett) <br>
 <blockquote>
 人間は予想外に同じことを繰り返すものだ。アルコール中毒の夫に散々苦労した妻が再婚したら相手がまたアルコール中毒だったりする。古くから親和力というものが問題になっていてゲーテにもこの題の長編がある。親和力は意識されないことのほうが多い。<br>
 <br>
-中井久夫「住む場所の力」『記憶の肖像』pp. 156-7 
-</blockquote> 
+中井久夫「住む場所の力」『記憶の肖像』pp. 156-7
+</blockquote>
 
 > 中井　[...] 互いに仇敵だけど、意識してると似てくるんです。アメリカも日本と戦ってだいぶ日本に似てきました。喧嘩もうっかりできないです。
-> 
-> 中井久夫・鶴見俊輔「あいまいさでつかむ思想」『鶴見俊輔　いつもあたらしい思想家』p. 16 
+>
+> 中井久夫・鶴見俊輔「あいまいさでつかむ思想」『鶴見俊輔　いつもあたらしい思想家』p. 16
 
 <blockquote>
-Ἄριστος τρόπος τοῦ ἀμύνεσθαι τὸ μὴ ἐξομοιοῦσθαι. <br> 
+Ἄριστος τρόπος τοῦ ἀμύνεσθαι τὸ μὴ ἐξομοιοῦσθαι. <br>
 The best revenge is not to be like your enemy. <br>
-<br> 
-Marcus Aurelius, Meditations, 6.6 (tr. Martin Hammond, Penguin Classics)  
+<br>
+Marcus Aurelius, Meditations, 6.6 (tr. Martin Hammond, Penguin Classics)
 https://www.perseus.tufts.edu/hopper/text?doc=Aur.+6.6&fromdoc=Perseus%3Atext%3A2008.01.0641
 </blockquote>
 
 > There is an additional reason why you have had a decline in the moral climate. You'll pardon me for returning to my discipline of economics, but there is a fundamental economic law which has never been contradicted to the best of my knowledge and that is, if you pay more for something there will tend to be more of that something available. If the amount you are willing to pay for anything goes up, somehow or other somebody will supply more of that thing. We have made immoral behavior far more profitable. We have, in the course of the changes in our society, been establishing greater and greater incentives on people to behave in ways that most of us regard as immoral. On each of us separately, we've all been doing it.<br>
-> 
-> Milton Friedman Speaks: Is Capitalism Humane?  (1978)  
-> https://youtu.be/27Tf8RN3uiM&t=1660 
+>
+> Milton Friedman Speaks: Is Capitalism Humane?  (1978)
+> https://youtu.be/27Tf8RN3uiM&t=1660
 
 > Please help me, and help us, by leading the comments over there and being nice to people, and just, if there's folks who isn't [being respectful], just don't reply, just... just let it fall out into nothingness.
-> 
-> Tom Scott  
+>
+> Tom Scott
 > [https://youtu.be/Ufbme0Iefs0&t=77](https://youtu.be/Ufbme0Iefs0&t=77)
