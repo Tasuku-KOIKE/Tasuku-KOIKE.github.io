@@ -1,4 +1,8 @@
-﻿<center><figure class="" title="William Blake's Notebook, 1808"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Blake_manuscript_-_Notebook_1808_-_16_Hes_a_Blockhead_who_wants_a_proof_of_what_he.jpg" alt="Trulli">
+﻿---
+title: 相手にしない 
+---
+
+<center><figure class="" title="William Blake's Notebook, 1808"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Blake_manuscript_-_Notebook_1808_-_16_Hes_a_Blockhead_who_wants_a_proof_of_what_he.jpg" alt="Trulli">
 <figcaption><center>From William Blake's Notebook, 1808</center></figcaption></figure> </center> 
 
 -   人間は、何に笑うかによって、何よりもよく自身の性格を示す (Goethe)
@@ -12,7 +16,7 @@
         -   大福屋で働いてる人が大福みたいな顔をしていた、とその向いの茶漬け屋だった兄が話していたのにも何かがあるのかもしれない (?)
         -   このような測りづらくても確かに存在する相互作用というものがある
     -   「けんかはすると似てきます。けんかも簡単にできないです。」(中井久夫・鶴見俊輔「あいまいさでつかむ思想」)
-        -   「敵に対する最大の復讐は、自分がその敵のようにならないことだ」(アウレリウス, 自省録)
+        - "The best revenge is not to be like your enemy"  (敵に対する最大の復讐は、自分がその敵のようにならないことだ ~~　　~~ Meditations, 6.6)
         -   もしそうだとすれば、その復讐はその敵を相手にしないことから始まる
         -   けんかはすると似てくるし、愛の反対は嫌悪ではなく無関心だから
         -   執着をいだいてはいけない、固着を手放さなきゃいけない
