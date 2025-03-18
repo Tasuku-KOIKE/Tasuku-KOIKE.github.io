@@ -27,7 +27,7 @@ title: "相手にしない"
         -   というのが (小5からインターネットにいる自分なりの) モットー
         -   ライオンのごとき王者がハエ叩きに成り下がってはいけない
         -   It’s not that the capitalism is itself moral; it’s that we have made the immoral profitable (Milton Friedman, Is Capitalism Humane?)
-        -   $$\mathrm{money / capitalist ~ economy ~ \cong ~ views / attention ~ economy}$$
+        -   \$$\mathrm{money / capitalist ~ economy ~ \cong ~ views / attention ~ economy}$$
 
 <center><p>He’s a blockhead who wants a proof of what he can’t perceive, <br>
 And he’s a fool who tries to make such a blockhead believe. <br>
