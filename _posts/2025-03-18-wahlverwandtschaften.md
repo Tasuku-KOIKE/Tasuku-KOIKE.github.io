@@ -75,5 +75,5 @@ Marcus Aurelius, Meditations, <a href="https://www.perseus.tufts.edu/hopper/text
 
 > Please help me, and help us, by leading the comments over there and being nice to people, and just, if there's folks who isn't [being respectful], just don't reply, just... just let it fall out into nothingness.
 >
-> Tom Scott
+> Tom Scott  
 > [https://youtu.be/Ufbme0Iefs0&t=77](https://youtu.be/Ufbme0Iefs0&t=77)
