@@ -29,10 +29,10 @@ title: "相手にしない"
         -   It’s not that the capitalism is itself immoral; it’s that we have made the immoral profitable (Milton Friedman, Is Capitalism Humane?)
         -   \$$\mathrm{money / capitalist ~ economy ~ \cong ~ views / attention ~ economy}$$
 
-<center><p>He’s a blockhead who wants a proof of what he can’t perceive, <br>
+<center> <p style="text-align: start; width: 75%; margin-top: 0.5em;">
+He’s a blockhead who wants a proof of what he can’t perceive, <br>
 And he’s a fool who tries to make such a blockhead believe. <br>
 <s>　　</s>William Blake, Ideas of Good and Evil, couplets and fragments, 11
-
 </p></center>
 
 <center><p style="margin-top: 0.5em; margin-bottom: 0.5em;"> <span style="font-size: 80%">☆　☆　☆</span> </p></center>
@@ -67,6 +67,17 @@ The best revenge is not to be like your enemy. <br>
 <br>
 Marcus Aurelius, Meditations, <a href="https://www.perseus.tufts.edu/hopper/text?doc=Aur.+6.6">6.6</a> (tr. Martin Hammond, Penguin Classics)
 </blockquote>
+
+<blockquote>
+<center> <p style="text-align: start; width: 70%; margin-top: 0.5em;">
+The opposite of love is not hate; it's indifference.  </br>
+The opposite of art is not ugliness; it's indifference.  </br>
+The opposite of faith is not heresy; it's indifference.  </br>
+And the opposite of life is not death; it's indifference.  </br>
+Because of indifference, one dies before one actually dies. <br>
+<br>
+Elie Wiesel, <a href="https://www.oxfordreference.com/view/10.1093/acref/9780191826719.001.0001/q-oro-ed4-00011516">in U.S. News and World Report, 27 October 1986</a>
+</blockquote
 
 > There is an additional reason why you have had a decline in the moral climate. You'll pardon me for returning to my discipline of economics, but there is a fundamental economic law which has never been contradicted to the best of my knowledge and that is, if you pay more for something there will tend to be more of that something available. If the amount you are willing to pay for anything goes up, somehow or other somebody will supply more of that thing. <b>We have made immoral behavior far more profitable.</b> We have, in the course of the changes in our society, been establishing greater and greater incentives on people to behave in ways that most of us regard as immoral. On each of us separately, we've all been doing it. [...]<br>
 >
