@@ -76,7 +76,7 @@ And the opposite of life is not death; it's indifference.  <br>
 Because of indifference, one dies before one actually dies. <br>
 <br>
 Elie Wiesel, <a href="https://www.oxfordreference.com/view/10.1093/acref/9780191826719.001.0001/q-oro-ed4-00011516">in U.S. News and World Report, 27 October 1986</a>
-</blockquote
+</blockquote>
 
 > There is an additional reason why you have had a decline in the moral climate. You'll pardon me for returning to my discipline of economics, but there is a fundamental economic law which has never been contradicted to the best of my knowledge and that is, if you pay more for something there will tend to be more of that something available. If the amount you are willing to pay for anything goes up, somehow or other somebody will supply more of that thing. <b>We have made immoral behavior far more profitable.</b> We have, in the course of the changes in our society, been establishing greater and greater incentives on people to behave in ways that most of us regard as immoral. On each of us separately, we've all been doing it. [...]<br>
 >
