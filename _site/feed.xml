@@ -1,20 +1,426 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-17T17:00:22+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Peripatetic aide-mémoire</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/2025/03/17/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-03-17T13:42:29+09:00</published><updated>2025-03-17T13:42:29+09:00</updated><id>http://localhost:4000/blog/2025/03/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/2025/03/17/"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-21T18:18:27+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Peripatetic aide-mémoires</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">相手にしない</title><link href="http://localhost:4000/blog/2025/03/18/wahlverwandtschaften/" rel="alternate" type="text/html" title="相手にしない" /><published>2025-03-18T00:00:00+09:00</published><updated>2025-03-18T00:00:00+09:00</updated><id>http://localhost:4000/blog/2025/03/18/wahlverwandtschaften</id><content type="html" xml:base="http://localhost:4000/blog/2025/03/18/wahlverwandtschaften/"><![CDATA[<center><figure class="" title="William Blake's Notebook, 1808"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Blake_manuscript_-_Notebook_1808_-_16_Hes_a_Blockhead_who_wants_a_proof_of_what_he.jpg" alt="Trulli" />
+<figcaption><center>From William Blake's Notebook, 1808</center></figcaption></figure> </center>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<ul>
+  <li>人間は、何に笑うかによって、何よりもよく自身の性格を示す (Goethe)</li>
+  <li>人間は、どのような失敗をするかによって、何よりもよく自身の性格を示す (Plato)
+    <ul>
+      <li>理想に対しどのような期待をいだき、したがってどのような裏切りをうけるのか</li>
+    </ul>
+  </li>
+  <li>人間は、何を自分の相手とするかによって、何よりもよく自身の性格を示す
+    <ul>
+      <li>ゲーテが親和力と題して考察したように、人は注意を向ける先にだんだん影響されてくる
+        <ul>
+          <li>飼っている犬とその飼い主が似てくる</li>
+          <li>アルコール症者から離れた人の再婚相手がアルコール症だったりすることが少なくない (中井久夫)</li>
+          <li>着ている服や住んでいる部屋といったものは、しばらく使わないでいるとよそよそしくなってくる、それだけ身の回りのものは自分と呼吸をしあっている</li>
+          <li>大福屋で働いてる人が大福みたいな顔をしていた、とその向いの茶漬け屋だった兄が話していたのにも何かがあるのかもしれない (?)</li>
+          <li>このような測りづらくても確かに存在する相互作用というものがある</li>
+        </ul>
+      </li>
+      <li>けんかはすると似てきます。けんかも “うっかりできない” です。(中井久夫・鶴見俊輔「あいまいさでつかむ思想」)
+        <ul>
+          <li>“The best revenge is not to be like your enemy.” (Aurelius, Meditations, 6.6)</li>
+          <li>「敵に対する最大の復讐は、自分がその敵のようにならないことだ」</li>
+          <li>もしそうだとすれば、その復讐はその敵を相手にしないことから始まる</li>
+          <li>けんかはすると似てくるし、愛の反対は嫌悪ではなく無関心だから</li>
+          <li>執着をいだいてはいけない、固着を手放さなきゃいけない
+            <ul>
+              <li>西のフロイトによれば心の病いは幼少期の固着に起源する</li>
+              <li>東のブッダは心の安寧のためにそれを手放すよう教えた</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>したがって、愚か者の相手をするものもまた愚か
+        <ul>
+          <li>というのが (小5からインターネットにいる自分なりの) モットー</li>
+          <li>ライオンのごとき王者がハエ叩きに成り下がってはいけない</li>
+          <li>It’s not that the capitalism is itself immoral; it’s that we have made the immoral profitable (Milton Friedman, Is Capitalism Humane?)</li>
+          <li>\(\mathrm{money / capitalist ~ economy ~ \cong ~ views / attention ~ economy}\)</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<center> <p style="text-align: start; width: 75%; margin-top: 0.5em;">
+He’s a blockhead who wants a proof of what he can’t perceive, <br />
+And he’s a fool who tries to make such a blockhead believe. <br />
+<s>　　</s>William Blake, Ideas of Good and Evil, couplets and fragments, 11
+</p></center>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<center><p style="margin-top: 0.5em; margin-bottom: 0.5em;"> <span style="font-size: 80%">☆　☆　☆</span> </p></center>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<blockquote>
+Durch nichts bezeichnen die Menschen mehr ihren Charakter als durch das, was sie lächerlich finden.<br />
+<br />
+Goethe, Maximen und Reflexionen, aus den Wahlverwandtschaften (1809)<br />
+<a href="https://www.reclam.de/data/media/978-3-15-018698-5.pdf">https://www.reclam.de/data/media/978-3-15-018698-5.pdf</a>
+</blockquote>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<blockquote>
+[...] Nor when love is of this disinterested sort [in pursuit of wisdom and virtue] is there any disgrace in being deceived, but in every other case there is equal disgrace in being or not being deceived. For he who is gracious to his lover under the impression that he is rich, and is disappointed of his gains because he turns out to be poor, is disgraced all the same: for he has done his best to show that he would give himself up to any one's 'uses base' for the sake of money; but this is not honourable. And on the same principle he who gives himself to a lover because he is a good man, and in the hope that he will be improved by his company, shows himself to be virtuous, even though the object of his affection turn out to be a villain, and to have no virtue; and if he is deceived he has committed a noble error. For he has proved that for his part he will do anything for anybody with a view to virtue and improvement, than which there can be nothing nobler. <br />
+<br />
+Plato, Symposium, the speech of Pausanias, 184c-185a (tr. Benjamin Jowett) <br />
+<a href="https://www.gutenberg.org/files/1600/1600-h/1600-h.htm">https://www.gutenberg.org/files/1600/1600-h/1600-h.htm</a>
+</blockquote>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Poetry</title><link href="http://localhost:4000/blog/2025/03/17/" rel="alternate" type="text/html" title="Poetry" /><published>2025-03-17T00:00:00+09:00</published><updated>2025-03-17T00:00:00+09:00</updated><id>http://localhost:4000/blog/2025/03/poetry</id><content type="html" xml:base="http://localhost:4000/blog/2025/03/17/"><![CDATA[<blockquote>
+<blockquote>
+人間は予想外に同じことを繰り返すものだ。アルコール中毒の夫に散々苦労した妻が再婚したら相手がまたアルコール中毒だったりする。古くから親和力というものが問題になっていてゲーテにもこの題の長編がある。親和力は意識されないことのほうが多い。<br />
+<br />
+中井久夫「住む場所の力」『記憶の肖像』pp. 156-7
+</blockquote>
+
+<blockquote>
+  <p>中井　[…] 互いに仇敵だけど、意識してると似てくるんです。アメリカも日本と戦ってだいぶ日本に似てきました。喧嘩もうっかりできないです。</p>
+
+  <p>中井久夫・鶴見俊輔「あいまいさでつかむ思想」『鶴見俊輔　いつもあたらしい思想家』p. 16</p>
+</blockquote>
+
+<blockquote>
+Ἄριστος τρόπος τοῦ ἀμύνεσθαι τὸ μὴ ἐξομοιοῦσθαι. <br />
+The best revenge is not to be like your enemy. <br />
+<br />
+Marcus Aurelius, Meditations, <a href="https://www.perseus.tufts.edu/hopper/text?doc=Aur.+6.6">6.6</a> (tr. Martin Hammond, Penguin Classics)
+</blockquote>
+
+<blockquote>
+<center> <p style="text-align: start; width: 70%; margin-top: 0.5em;">
+The opposite of love is not hate; it's indifference.  &lt;/br&gt;
+The opposite of art is not ugliness; it's indifference.  &lt;/br&gt;
+The opposite of faith is not heresy; it's indifference.  &lt;/br&gt;
+And the opposite of life is not death; it's indifference.  &lt;/br&gt;
+Because of indifference, one dies before one actually dies. <br />
+<br />
+Elie Wiesel, <a href="https://www.oxfordreference.com/view/10.1093/acref/9780191826719.001.0001/q-oro-ed4-00011516">in U.S. News and World Report, 27 October 1986</a>
+&lt;/blockquote
+
+&gt; There is an additional reason why you have had a decline in the moral climate. You'll pardon me for returning to my discipline of economics, but there is a fundamental economic law which has never been contradicted to the best of my knowledge and that is, if you pay more for something there will tend to be more of that something available. If the amount you are willing to pay for anything goes up, somehow or other somebody will supply more of that thing. <b>We have made immoral behavior far more profitable.</b> We have, in the course of the changes in our society, been establishing greater and greater incentives on people to behave in ways that most of us regard as immoral. On each of us separately, we've all been doing it. [...]<br />
+&gt;
+&gt; Milton Friedman Speaks: Is Capitalism Humane?  (1978)<br />
+&gt; [https://youtu.be/27Tf8RN3uiM&amp;t=1660](https://youtu.be/27Tf8RN3uiM&amp;t=1660)
+
+&gt; Please help me, and help us, by leading the comments over there and being nice to people, and just, if there's folks who isn't [being respectful], just don't reply, just... just let it fall out into nothingness.
+&gt;
+&gt; Tom Scott<br />
+&gt; [https://youtu.be/Ufbme0Iefs0&amp;t=77](https://youtu.be/Ufbme0Iefs0&amp;t=77)
+</p></center></blockquote>]]></content><author><name></name></author><summary type="html"><![CDATA[From William Blake's Notebook, 1808]]></summary></entry><entry><title type="html">ドーパミン、比率計算、愛、理想</title><link href="http://localhost:4000/blog/2025/03/17/dopamine/" rel="alternate" type="text/html" title="ドーパミン、比率計算、愛、理想" /><published>2025-03-17T00:00:00+09:00</published><updated>2025-03-17T00:00:00+09:00</updated><id>http://localhost:4000/blog/2025/03/17/dopamine</id><content type="html" xml:base="http://localhost:4000/blog/2025/03/17/dopamine/"><![CDATA[<p><img src="/assets/images/IMG_2265.jpg" alt="flower" /></p>
+
+<p>ドーパミンには比率計算にかんする機能がある</p>
+
+<ul>
+  <li>今までの進捗から報酬までに必要な仕事量を計算して、それまでの作業を容易くするエネルギー
+    <ul>
+      <li>ライトが光ったらボタンを10回押すと好きなエサが出てくるというネズミの実験で、ドーパミンが分泌されるのは (予想に反して) エサが出てきたときよりも点灯時と作業中</li>
+      <li>さらに脳の報酬系 (≒ ドーパミンを感じる部分) を摘出すると、ネズミはライトが光るのを見ても作業をしようとしなくなる</li>
+      <li>喜びは、獲得よりも予期にある</li>
+      <li>こうした一連の流れを目標志向の行動 (goal-directed behaviour) と呼ぶ</li>
+    </ul>
+  </li>
+</ul>
+
+<p>したがって「喜びの追求」なのではなく「追求の喜び」である</p>
+
+<ul>
+  <li>心理学に作業興奮などという正式の用語はない、といっておこる専門家の先にはもう一歩ある
+    <ul>
+      <li>つまり、なぜそのような用語がないかといえば、そもそものしくみとして、ドーパミン分泌は作業中に起るものだから、といえる</li>
+      <li>作業を始める起動力なのではなく、始めた作業を終わらせるためのものというのが本来である</li>
+    </ul>
+  </li>
+  <li>欲しいものをなくすれば得られない苦しみがなくなる、のはほんとうかもしれない – でも、それと同じく喜びさえもが失われかねない
+    <ul>
+      <li>だから「幸せに欠かせないのは欲しいものが何か足りないことだ」というラッセルの方がブッダよりも脳内分泌学の立場からすれば現実的であるといえると思う</li>
+      <li>害が生じるのは行き過ぎた場合にであって、何かを欲しいと望むこと自体が悪なのではない
+        <ul>
+          <li>反動的にそれを抑えてしまえば動けなくなる、そしてそれは隠遁でない世俗に生きる思想にはなりえない</li>
+          <li>だからはたらく必要がどうせあるなら、ドーパミンを作用させるために目標をもった方がいいし、望むものもあった方がいい</li>
+        </ul>
+      </li>
+      <li>‘Wants are the ‘forward’ version of gratitudes.’ (Lulie Tanett)</li>
+    </ul>
+  </li>
+</ul>
+
+<p>「部分はおもしろく、全部はつまらない」という帰結</p>
+
+<ul>
+  <li>「つまらない奴でいることの秘訣は、すべてを言ってしまうことである」というヴォルテールの (自己言及的な) 格言</li>
+  <li>ボッティチェッリ「ヴィーナスの誕生」の右手</li>
+  <li>「最も興奮をそそるのは隙間からみえることではないだろうか」と『テキストの悦楽』にロラン・バルトが書いたのもやはり同じ脳内分泌の原理にふれている</li>
+  <li>「理想の結婚相手はスーパーの廊下などで見かけがちである」というアラン・ド・ボトンの観察も同様に
+    <ul>
+      <li>つまり、好きだと思うのはまだ比率計算ができるからであって、知れば知るほど、それがどんな相手だろうとつまらなくなってくる</li>
+      <li>全部がわかるとつまらなくなるのは相手がそうだからよりも脳のしくみがそうなっているから</li>
+      <li>好きと愛のちがいをこのように定義できるかもしれない: 部分から全部への比率計算に伴う自然な気持ちに便乗しているのと、全体がもたらすつまらなさまでを受け入れようとする努力とのちがいであると</li>
+    </ul>
+  </li>
+</ul>
+
+<p>理想は近劣りする</p>
+
+<ul>
+  <li>日本語にはかつて「近勝り」という言葉があった
+    <ul>
+      <li>遠くからよりも近くでの方が美しく映えること</li>
+      <li>『狭衣物語』では、自身の望む女性との結婚が政治の諸事情で叶わないことを主人公が悲しみ涙を流す場面で、宮廷の妾 (そばめ) が近づくとその泣いている様子がいっそう可憐に見えたので、という場面の形容に用いられている</li>
+    </ul>
+  </li>
+  <li>理想は「近劣り」するものだ
+    <ul>
+      <li>あこがれの人も、夢も、国も、仕事も</li>
+      <li>どんなに好きだと思ってた国だって、いっときの旅行を過ぎて居住を始めれば、見えてくるきめ細かい現実に落ち込む (= 全部に近づく) ときが来る</li>
+      <li>神谷美恵子の日記に、掲げた理想の近劣りを感じ始めた日のことが書かれている</li>
+    </ul>
+  </li>
+</ul>
+
+<blockquote>
+  <p>「自分からこわれる、自分からこわれる」</p>
+
+  <p>　</p>
+
+  <p>そうつぶやきながら今にもおえつしそうになる唇をかみしめて私は昨日新宿の通りを歩いていた。</p>
+
+  <p>　</p>
+
+  <p>「こわれる」とは理想のことを言っているのだった。医師となって人につくすという理想を日々具体化する夢も、現実となって見ると、やっぱりはかないものだった。まず第一にその夢をこわすものがこの自分だ。心身ともに弱すぎる時分、醜い自分 <del>　　</del> この自分から何のよきものが出よう。[…]</p>
+</blockquote>
+
+<p>「責任は夢のなかで始まる」</p>
+
+<ul>
+  <li>詩人 W. B. Yeats が詩集 Responsibilities の序歌に掲げた一句
+    <ul>
+      <li>責任をもつことが夢をもつことに始まるとすれば、だれかが何かの責任をとることができないのは、それがその人にとって夢ではないから <s>　</s> なのかもしれない</li>
+      <li>それが夢であるのなら責任も自然ととれるようになる</li>
+      <li>これがほしい、と思ったときに、その何かへ近づくとともにわかることと向き合う覚悟があるか？　それができるほどの強い望みであるのか Do I want it to that extent？　自分は、この夢をいだく責任をとることができるか？</li>
+    </ul>
+  </li>
+</ul>
+
+<blockquote>
+  <p>[…] 理想主義を嘲笑するものはまずこの自分の裡にありと思うと泣いても泣ききれない。人の心の醜さにもこの頃いい加減悲しい思いをしている。けれどそれ以上に自分が情ない。</p>
+
+  <p>　</p>
+
+  <p>けれども、この傍のあじさいの花の色の清らかさはどうだ。
+今弾いて来たバッハのトッカータの音の深さはどうだ。
+そうしてあそこの本棚の詩集には、どれにも純粋な魂の躍動がみちみちている。
+泣くな、泣くな、うなだれるな。木々の梢をわたる風の音もそうささやいている。</p>
+
+  <p>神谷美恵子『日記・書簡集』1944年7月11日, p. 57</p>
+</blockquote>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Cosmopolitanism 世界という町に生きる</title><link href="http://localhost:4000/blog/2024/06/08/cosmopoiltanism/" rel="alternate" type="text/html" title="Cosmopolitanism 世界という町に生きる" /><published>2024-06-08T00:00:00+09:00</published><updated>2024-06-08T00:00:00+09:00</updated><id>http://localhost:4000/blog/2024/06/08/cosmopoiltanism</id><content type="html" xml:base="http://localhost:4000/blog/2024/06/08/cosmopoiltanism/"><![CDATA[<p>かたちとなかみのこと — 最後はシステムよりも人、かたちよりもなかみである</p>
+
+<ul>
+  <li>開発の現場では、ハード面とソフト面といって <s>　</s> hardware と software に対応して <s>　</s> 水道を敷くことと、水の管理や維持することなどを区別するそう
+    <ul>
+      <li>英語で house と home という区別もこれを示している
+        <ul>
+          <li>町に house は何千軒とあるが、home はよほど少ない</li>
+          <li>家を建てただけではそれが home になるとはかぎらない</li>
+        </ul>
+      </li>
+      <li>年齢についての「若い」と「若々しい」の違い
+        <ul>
+          <li>80歳でも若々しい人はいるし、天才は永遠の子ども</li>
+          <li>「年齢は自分で定義するものだ」(岡本太郎)</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>教育でも同じように、たとえば校舎がいくら立派なものであるとしても、そこに教える気がある人や学ぶ意欲がある人がいないかぎり学びが起っているとはいえない</li>
+  <li>劇場から何を取り除いてもなお舞台として成立するか？　という思考実験。照明がなくてもできる。衣装もメイクアップも、さらにはステージさえ取り去れるとしても、最後に欠かせないのは劇を演じる人とそれを鑑賞する人たちだ</li>
+  <li>だから、教育はハード面だけではない
+    <ul>
+      <li>両方が大事だけれども、もしどちらかが優先するとすればソフト面ではないか
+        <ul>
+          <li>難民地域での青空教室といったものはこれを示す究極的な例</li>
+        </ul>
+      </li>
+      <li>最後はシステムよりも制度よりも人、というのはこの意味において
+        <ul>
+          <li>「教室のドアを閉めた瞬間から先生自身が教育ポリシーになる、カリキュラムになる」と教育学では教わるそう</li>
+          <li>戦中の外交政策に対する杉原千畝のことを考えてもいい</li>
+          <li>強制収容所の配給時に冷えきったスープのバケツを (具が入るように) 底から「深く」すくってくれたヴィクトール・フランクルの班長</li>
+          <li>南アフリカ・ロベン島監獄の檻の隙間からひそかに新聞とタバコをネルソン・マンデラに毎晩渡していた黒人監視人
+            <ul>
+              <li>第二次大戦中のファシズム、そして冷戦下のアパルトハイト体制という、おそらく20世紀においてもっとも暗いといえる人類史のなかの二つの脅威的な体制下でも、この原理は正しかった</li>
+              <li>このことは、この原理がいかに広い文脈において有効であるかを示しているのではないかと思う</li>
+            </ul>
+          </li>
+          <li>システムよりも人、ポリシーよりも人、だから必要なのは
+            <ul>
+              <li>「政治家が大したことなくても日本がやっていけるのは、名前のない人たちが偉いからだ」と中井さんが言う通り</li>
+              <li>それは教育と医療という命をあずかる二大職業のどちらにおいてもだ</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p>学びが身につくとはどのようなことか <s>　</s> 幼児型記憶と成人型記憶について</p>
+
+<ul>
+  <li>人間は、およそ二歳半を境目に、それまでの幼児型言語 (喃語と呼ばれるむにゃむにゃ言葉) から成人型言語へ移行するにつれ、記憶の<ruby><rb>型</rb><rp> (</rp><rt>タイプ</rt><rp>) </rp></ruby>も切り替わる</li>
+  <li>記憶のしかたには、まず二歳半前後で文脈と非文脈による大きな区別がある
+    <ul>
+      <li>それまでの記憶は一刻の記憶、写真のようで文脈がない。言葉にしづらく、瞬時に思い出され、どれだけの時間を経てもその内容や鮮明さが変化しない</li>
+      <li>それ以降の記憶にはスライドショー風に今までにつながる連続感がある。言葉で語りやすく、流れのなかで想起され、夢や時間経過などを通じて編集・加工されうる</li>
+    </ul>
+  </li>
+  <li>言語使用でいえば詩と散文の違いだね
+    <ul>
+      <li>俳句のように写真のフレームを切り抜いてきたような非文脈性</li>
+      <li>それに対して散文という言葉のつながりには前後関係や文脈の流れがある</li>
+    </ul>
+  </li>
+  <li>数学者には「公式」と「証明」の違いだといえば分かりやすいだろうか
+    <ul>
+      <li>公式だけでも問題が解けないことはない、しかしそれがほんとうに身につくのはその証明をつかんだとき、さらにはそれを自分で発見して再構築できたとき</li>
+      <li>より一般に、結果と過程の違いのことだともいえる</li>
+    </ul>
+  </li>
+  <li>さらに広くいえば、「なぜ数学か言語か、なのか」という問いも、「幼児型と成人型、文脈と非文脈の区別」をとらえれば理解できる
+    <ul>
+      <li>ある一定の公理的規則のもとでは、たとえば \(2 \times 2 = 4\) という事実は文脈に依らない</li>
+      <li>さらに \(E = mc^2\)  という式でそれぞれの値はいわば (写真のように) 同時的に与えられている</li>
+      <li>一方、言語は意味に文脈依存性があり、最初から最後への流れに置いてしかこれらの式を表現しえない</li>
+      <li>数学者には、詩人や、(相対音感に対して) 絶対音感をもつ人が少なくない</li>
+      <li>数学に傾いた著述家には、パスカルやヴィトゲンシュタインのように、断片の形式をとるアフォリスト (警句家) が多い</li>
+      <li>「数学者とは歌わない詩人のことである」(岡潔, 紫の火花)</li>
+    </ul>
+  </li>
+  <li>さて記憶をめぐっては、それが身につくかどうかという基準をおくこともできる
+    <ul>
+      <li>命題記憶 (semantic memory) とエピソード記憶 (personal/episodic memory)
+        <ul>
+          <li>この山はどこに所在して何という川の源で標高は何メートルである、と詰め込むのは命題記憶</li>
+          <li>小さい頃遊んだ「兎追いし彼の山」と思い出すのはエピソード記憶</li>
+          <li>モナリザは誰が描いたかといえば命題記憶、一度パリの美術館まで見に行ったことがあるなと思い返せばエピソード記憶</li>
+          <li>一般に、後者のように学べば忘れづらい</li>
+          <li>自分の人格形成に参加している記憶は忘れるはずがない</li>
+        </ul>
+      </li>
+      <li>ここでの一番のポイントは、同じ情報でも少なくとも2種類の学び方ができるということ
+        <ul>
+          <li>幼児記憶的命題として、ただの一般事実として暗記することと、</li>
+          <li>成人記憶的エピソードとして、自分の人生を紡ぐ思い出として経験すること</li>
+          <li>前者は後者への下地ときっかけになるという点で重要だが、やはり前者だけではぜったいに足りない</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p>天下り的になるけど (という言い回しは数学者に多いそうだね) <s>　</s></p>
+
+<ul>
+  <li>Hellen Keller について再発見しているところでね、自伝の最初数ページを読むだけで、この英文を書いているのは、古典的教養が豊かな、でも上品なユーモアもある自信に満ちたアメリカの女性であるということが文体から伝わってくる</li>
+  <li>それで、本人に一度会ったことがあるという日本人の思想家 (= 鶴見俊輔さん) が書いていたことなんだけど、かれが若いときに働いていた図書館を彼女が訪れたとき、偶然自分の方を向いて「あなたは誰ですか」と話しかけられて、自分は Harvard の学生だと答えると、私はその隣の Radcliffe College で学んだけれども、Many things I learned there, but most of them I had to unlearn ということを言ったそう</li>
+  <li>それで鶴見さんの翻訳がまた素晴らしいんだ <s>　</s>「私はそこで多くのことを学びました。しかし、多くのことはのちに学びほぐす必要があったのです」と</li>
+  <li>学び「ほぐす」とは何のことを言っているのかというと、学校で教わるような幼児型の知識を、自分で成人型の過程に延ばしていくことだろう！</li>
+  <li>「学校で教わることは大事だ。しかし、それを学びほぐしたものが自分の血となり肉となる」と鶴見さんは書く
+    <ul>
+      <li>血肉になる、とはつまりエピソード的に成人型記憶として “身につく” こと</li>
+    </ul>
+  </li>
+  <li>さらに「それは一度製図通りに編まれたセーターを一本ずつの糸に解きほぐし、それを自分の身に合った形に自ら編みなおすという状景を喚起した」ともいう
+    <ul>
+      <li>編まれたものを糸にほぐし返すことを英語では unpick という</li>
+      <li>ひとつの世界をことなる分野の知識に unpick する、ということを J. Bronowski という学際-境界-詩人-数学者が話していた</li>
+    </ul>
+  </li>
+  <li>学校では template 通りの完成品しか配らない <s>　</s> 50人のクラスをもつ先生は一人一人に合うように編むことはできない <s>　</s> けれど、既製品を unpick して編みなおすことは、むしろ学び手の一人一人が、自分で自分のために手掛けるべき作業かもしれない
+    <ul>
+      <li>ソフト面が伴った学びの場とは、完成品を配る側と、それを編みなおす側と、それらを望む両者とが、ともにそなわった場所のことをいうのではないか</li>
+    </ul>
+  </li>
+</ul>
+
+<center><p style="margin-top: 1em; margin-bottom: 1em;"> <span style="font-size: 120%">☆　☆　☆</span> </p></center>
+
+<p>非常な幸運によって、去年5月にＣ大学の教授とお会いして話をする機会があった</p>
+<ul>
+  <li>すると、初対面のあいさつと自己紹介、よりも前の最初の一言が、<del>　　</del>Tasuku, what books are you reading right now? だった
+    <ul>
+      <li>アメリカのキャンパスでは日頃の greetings がこう始まるという話は噂に聞いていたけれど、それがほんとうにそうであるらしいとわかったのはこのときだった</li>
+    </ul>
+  </li>
+  <li>そうしてそのとき読書中の3冊について話していると、先生は (大学の同僚でもある) 奥さんに向って、<del>　　</del>I think Tasuku should become a university professor, と言った
+    <ul>
+      <li>もちろん半分は社交的お世辞ということが当然ある <del>　</del> けど、もう半分ぐらいは君が今まで積み上げてきたものは正しい方向にある、と後押ししてくれたのだと考えたい</li>
+    </ul>
+  </li>
+  <li>そのなかにフランス・ルネサンスについての本があって、とある中世文学が専門である先生は、<del>　　</del>君はいずれ、フランスの中世を経由して、日本の中世へと帰って来れたらいいじゃないか、と言ってくれた
+    <ul>
+      <li>敗戦につき正書法改正の必要があった日本では、文語を知らない現代人なら100年前の本もろくに読めない一方、フランスでは2020年の confinement (外出自粛) 下、パスカルが書いた「すべての人間の不幸は部屋で座ってじっとしていられないことである」という17世紀の文章が一般世間に流行ったり、外国人でさえ今日のフランス語を知っていれば400年前の本が読めるというような、歴史や伝統文化にかんする連続性がある。これと比べて日本では特別な準備なしに江戸時代の文学が読めることはない</li>
+      <li>そうした背景を理解する先生は、君のような若い人には過去の日本文化との continuity は感じられないだろうといって、英語からであれば文語も現代語も等距離 equidistant なのだから、君はいつかそうして日本の中世へと帰って来ればいいと</li>
+    </ul>
+  </li>
+  <li>これを聴いて次のようなイメージが思い浮かんだ <s>　　</s> 地球儀上の2地点を結ぶ最短距離は直線よりも弓形 (convex) であるように、中世の奈良や京都への近道は、21世紀の東京から直線状に向うことよりも、欧米の大学と中世を経由していくことかもしれない、と
+    <ul>
+      <li>そうやって僕は日本の古典を学びほぐしているというわけさ・・</li>
+    </ul>
+  </li>
+  <li>こうしてパーソナルに発見・再発見した経験は絶対に忘れることがない
+    <ul>
+      <li>先生と話した場所を訪れる度にこのことを思い出すことだろうと思う</li>
+    </ul>
+  </li>
+</ul>
+
+<center><p style="margin-top: 0.5em; margin-bottom: 1em;"> <span style="font-size: 120%">☆　☆　☆</span> </p></center>
+
+<p>さらにS先生は、これから自分が大学に勤める気があるのかを訊くと同時に、<del>　　</del>Tasuku, you have to leave, とも言ったのだった</p>
+
+<ul>
+  <li>これには二つの意味があった思う: 内向きがちな島国から、そして長いあいだ紛争状態にある家庭から</li>
+</ul>
+
+<p>しかし、僕はいま、その時それが必要だと考えた先生はまちがっていたのではないかと考える</p>
+<ul>
+  <li>作家・大江健三郎さんは、自分の小説が日本語以外の言葉に訳されたときに、それをどこに住むどんな人が読んでも、「ああ、これは自分たちの文学だ」と思ってもらえるような、世界に開かれた「人類の言葉で」書くことを続けたいと語った</li>
+  <li>日本で通じても世界では通じない、世界で通じても日本では通じない、のは鎖国だ</li>
+  <li>ほんとうに世界で通じるものならば、世界のどこででも、世界なかの日本でだって通じるはず
+    <ul>
+      <li>ダブルスタンダードを止めればそのまま通用する
+        <ul>
+          <li>覇権国化としてのグローバルということとは無縁のものだ</li>
+        </ul>
+      </li>
+      <li>障害をもつ息子・光さんをとりまく家庭生活のことを書き続けノーベル文学賞を受けた大江さんは、そのことの究極的な例を示している</li>
+      <li>なんでも国の外のものの方が優れていると考えるなら、フランスかどこかで築く家庭を描く方がより良い小説家になれるとでも思うようなもの</li>
+      <li>かれと同じ年に生まれた小澤征爾さんが、ブザンソン国際コンクールの指揮部門の優勝後、海外ツアーからの帰国後に予定されていた演奏会でN響の楽団員たちにボイコットを起こされ、開催が取り消されることになったという事件も、果てにはそれと同じ考え方が引き起こしたのだろう</li>
+    </ul>
+  </li>
+  <li>反対に、世界の基準に生きるかぎり、世界のどこにいようと関係ない
+    <ul>
+      <li>世界の問題は、自分のすぐ身の回りにも、自分の中にもある
+        <ul>
+          <li>二回の大戦で「父」が失墜し、次第に家族が脅かされるようになったのも、各家庭に特有なものではなく、戦後20年頃からの世界同時的な現象だった</li>
+        </ul>
+      </li>
+      <li>それらの問題に取り組むために、お金持ちでいて留学できる必要があるはずはない:</li>
+      <li>自身に刻まれた世界の傷に取り組もうとするならば、人類の基準、人類のスタンダードに生きるならば <del>　　</del></li>
+    </ul>
+  </li>
+  <li>大江さんの書簡集に手紙が収められている作家に、南アフリカのナディン・ゴーディマという人がいる。彼女の同時代であるネルソン・マンデラは27年間にわたる投獄中に彼女の小説を読んでおり、ゴーディマ自身、マンデラの投獄が言い渡された裁判に立ち会ったうちの一人だった
+    <ul>
+      <li>そんな彼女がアメリカを訪れたときのインタビューで、今まで自分の本が出版直後に禁書扱いされたことが何度もありながら、これを書いても日の目を見ることがないかもしれないと分かりつつ、それでも創作活動を続けることができるのはどうしてか、という質問があった</li>
+      <li>ゴーディマは即答する。<del>　　</del>Well, it isn’t quite it if you write in a world-language! 世界の言葉で書くならば、そのようなことはないのです。確かに、今日も続く人種隔離に対して闘いをともにする南アフリカの仲間たちにこそ読んでほしいとねがう気持はある一方、自分の本が読まれるのが世界のどこであっても、自分がその読者へ与えることができる影響に変わりはないはずだから、と答えた</li>
+    </ul>
+  </li>
+  <li>だから、もし自分が誰かに、Professor S from C. university said that you should leave: don’t you now feel constrained by geography?　Ｃ大学のＳ教授が「君は出るべきだ」と言うなか、地理や国に縛られていると感じることはないのか？　と訊かれたとすれば、僕はこのように答えようと思う。<del>　　</del>Well, it isn’t quite it if you live by a world-standard! 人類の基準で生きるなら、そのようなことはない、と…</li>
+</ul>
+
+<center><p style="margin-top: 1em; margin-bottom: 1em;"> <span style="font-size: 120%">☆　☆　☆</span> </p></center>]]></content><author><name></name></author><summary type="html"><![CDATA[かたちとなかみのこと — 最後はシステムよりも人、かたちよりもなかみである]]></summary></entry><entry><title type="html">Poetry</title><link href="http://localhost:4000/blog/2024/04/11/poetry/" rel="alternate" type="text/html" title="Poetry" /><published>2024-04-11T00:00:00+09:00</published><updated>2024-04-11T00:00:00+09:00</updated><id>http://localhost:4000/blog/2024/04/11/poetry</id><content type="html" xml:base="http://localhost:4000/blog/2024/04/11/poetry/"><![CDATA[<p><img src="/assets/images/IMG_1716.JPG" alt="" /></p>
+
+<blockquote>
   <p>‘Oh Maud, why don’t you marry me and give up this tragic struggle and live a peaceful life? I could make such a beautiful life for you among artists and writers who would understand you.’</p>
 
   <p>　</p>
@@ -31,23 +437,23 @@
 
   <p>　</p>
 
-  <p>A. Norman Jeffares <i>W. B. Yeats: a new biography</i> (1988), p. 102<p> 
+  <p>A. Norman Jeffares <i>W. B. Yeats: a new biography</i> (1988), p. 102<p>
 </p></p>
 </blockquote>
 
-<p style="text-align: start; margin-top: 1em;"> 
+<p style="text-align: start; margin-top: 1em;">
 ねえマード、こんな悲しい生き方はもうやめて、これからは一緒に僕と静かに過ごそうよ。僕だったら、きっときみのことを理解してくれる芸術家と作家たちのなかで、きみのために素晴らしい人生を作ってあげられるのに。
 </p>
 
-<p style="text-align: start; margin-top: 1em;"> 
+<p style="text-align: start; margin-top: 1em;">
 ウィリー、あなたってば、いつまで私に同じことを訊くつもり？　私があなたと一緒にいないってことは、あなたの方こそありがたく思うべきだって言ってるでしょう。きっと私がいなくたって、それでもあなたは幸せでいられるわ。
 </p>
 
-<p style="text-align: start; margin-top: 1em;"> 
+<p style="text-align: start; margin-top: 1em;">
 <s>　　</s>きみがいなければ僕はうれしくないよ。
 </p>
 
-<p style="text-align: start; margin-top: 1em;"> 
+<p style="text-align: start; margin-top: 1em;">
 あら、もちろんそんなことないわよ。だってあなたは自分が不幸せだ、っていうこの毎日で、とっても美しい詩が書けてそれで幸せじゃない。大体ね、だれかと結婚するだなんて、すっごく面倒なことよ。詩人は一生結婚するべきじゃないわ。私があなたと結婚しないのは、世界が私に感謝しているべきなのよ。
 </p>
 
@@ -66,15 +472,17 @@
 <a href="https://youtu.be/kFMZrEABdw4?&amp;t=984">https://youtu.be/kFMZrEABdw4?&amp;t=984</a></p>
 </blockquote>
 
-<center> <p style="margin-top: 0.5em;"> 
-かれは天空の絨毯を願う
-</p> 
+<p><img src="/assets/images/cloths.png" alt="" /></p>
 
-<p style="text-align: start; width: 85%; margin-top: 0.5em;"> 
-<ruby><rb>天の</rb><rp> (</rp><rt>そら</rt><rp>) </rp></ruby>刺繍があったなら --- <br />
+<center> <p style="margin-top: 0.5em;">
+かれは天空の絨毯を願う
+</p>
+
+<p style="text-align: start; width: 85%; margin-top: 0.5em;">
+<ruby><rb>天の</rb><rp> (</rp><rt>そら</rt><rp>) </rp></ruby>刺繍があったなら <s>　　</s> <br />
 月日の金銀色で縫う、<br />
 青い、淡い、暗い布、 <br />
-夜中と<ruby><rb>日中</rb><rp> (</rp><rt>ひなか</rt><rp>) </rp></ruby>と夕暮れの ---、<br />
+夜中と<ruby><rb>日中</rb><rp> (</rp><rt>ひなか</rt><rp>) </rp></ruby>と夕暮れの <s>　　</s>、<br />
 君の足もとに敷いただろう。<br />
 だが　貧しく、夢しかない僕は<br />
 君の足もとに夢を敷く: きっと優しく<br />
@@ -86,4 +494,60 @@
 
 <p>　</p>
 
-<p>　</p>]]></content><author><name></name></author><summary type="html"><![CDATA[‘Oh Maud, why don’t you marry me and give up this tragic struggle and live a peaceful life? I could make such a beautiful life for you among artists and writers who would understand you.’ 　 ‘Willie, are you not tired of asking that question? How often have I told you to thank the gods that I will not marry you. You would not be happy with me.’ 　 ‘I am not happy without you.’ 　 ‘Oh yes, you are, because you make beautiful poetry out of what you call your unhappiness and you are happy in that. Marriage would be such a dull affair. Poets should never marry. The world should thank me for not marrying you.’ 　 A. Norman Jeffares W. B. Yeats: a new biography (1988), p. 102]]></summary></entry><entry><title type="html">new title</title><link href="http://localhost:4000/blog/2025/03/14/" rel="alternate" type="text/html" title="new title" /><published>2025-03-14T16:46:32+09:00</published><updated>2025-03-14T16:46:32+09:00</updated><id>http://localhost:4000/blog/2025/03/my-first-blog-post</id><content type="html" xml:base="http://localhost:4000/blog/2025/03/14/"><![CDATA[<p><em>godlike</em></p>]]></content><author><name></name></author><summary type="html"><![CDATA[godlike]]></summary></entry></feed>
+<p>　</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">2022 Summary</title><link href="http://localhost:4000/blog/2022/12/31/2022-summary/" rel="alternate" type="text/html" title="2022 Summary" /><published>2022-12-31T00:00:00+09:00</published><updated>2022-12-31T00:00:00+09:00</updated><id>http://localhost:4000/blog/2022/12/31/2022-summary</id><content type="html" xml:base="http://localhost:4000/blog/2022/12/31/2022-summary/"><![CDATA[<p>23/03- 人間の建設 (小林秀雄・岡潔)
+30/03- 数と人生 (吉田洋一)</p>
+
+<p>05/07- 数学する精神 (加藤文元)
+19/07- 数学とエロチシズム (池田満寿夫・広中平祐)
+27/07- 紫の火花 (岡潔)
+10/08- 春風夏雨 (岡潔)
+21/08- 数学する人生  (岡潔)
+31/08- 春宵十話 (岡潔)
+06/09- 大江健三郎 作家自身を語る (大江健三郎)
+12?/09- 災害がほんとうに襲った時 (中井久夫)
+24/09- ゆるやかな絆 (大江健三郎)
+27/09- 26文字のラブレター (遊泳舎)
+03/10- 自分の木の下で (大江健三郎)
+07/10- 私という小説家の作り方 (大江健三郎)
+12/10- 日本語と日本人の心 (大江健三郎, 河合隼雄, 谷川俊太郎)
+17/10- あいまいな日本の私 (大江健三郎)
+25/10- 日本の「私」からの手紙 (大江健三郎)
+31/10- 新しい文学のために (大江健三郎)
+24/10- 私の日本語雑記 (中井久夫)
+24/10- 読書のすすめ (岩波文庫編集部: 大江健三郎, 中井久夫, …)
+/11- キノコの不思議 (森毅: 中井久夫)
+20/12- ショパン (遠山一行)</p>
+
+<p>08/01- An appetite for wonder (Richard Dawkins)
+17/01- After Babel: Aspects of Language and Translation (George Steiner)
+23/01- The Story of Hebrew (Lewis Glinert)
+10/02- Frankenstein; or, Modern Prometheus (Mary Shelley)</p>
+
+<p>19/05- Wittgenstein: the Duty of Genius (Ray Monk)
+19/05- The Symposium (Plato, Penguin’s Great Ideas)
+03/06- The Conquest of Happiness (Bertrand Russell)
+16/06- Principia Ethica (G. E. Moore)
+19/06- Introduction to Buddhism (Dalai Lama)
+03/07- How Proust can change your life (Alain de Botton)
+12/07- Emmanuel Macron: the French exception (Adam Plowright)
+27/07- The French Revolution &amp; What Went Wrong (Stephen Clarke)</p>
+
+<p>/11- Gospel according to Thomas
+/11- Letter to Father (Franz Kafka)
+/12- Meditations (Marcus Aurelius)</p>
+
+<p>10/06- 神話の構造 (吉田敦彦)
+14/06- Kinship and Marriage (Robin Fox)
+04/07- Primitive Classification (Mauss, Durkheim)
+19/07- Totemism (Lévi-Strauss)</p>
+
+<p>23/07- Cuneiform (Irving Finkel and Jonathan Taylor)
+02/08- Epic of Gilgamesh (Penguin Classics)
+27/08- Candide (Voltaire)</p>
+
+<p>19/06- Clinical introduction to Lacanian psychoanalysis (Bruce Fink)
+23/09- Pleasure of the text (Roland Barthes)</p>
+
+<p>/07- Considérations sur les causes de la grandeur des Romains et de leur décadence (Montesquieu)</p>
+
+<p>2022: 46 books in total</p>]]></content><author><name></name></author><summary type="html"><![CDATA[23/03- 人間の建設 (小林秀雄・岡潔) 30/03- 数と人生 (吉田洋一)]]></summary></entry><entry><title type="html">Books I’ve read: 2019</title><link href="http://localhost:4000/blog/2019/12/31/Books-I've-read-2019/" rel="alternate" type="text/html" title="Books I’ve read: 2019" /><published>2019-12-31T00:00:00+09:00</published><updated>2019-12-31T00:00:00+09:00</updated><id>http://localhost:4000/blog/2019/12/31/Books-I&apos;ve-read-2019</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/31/Books-I&apos;ve-read-2019/"><![CDATA[<p>Would that work?</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Would that work?]]></summary></entry><entry><title type="html">new title</title><link href="http://localhost:4000/blog/2000/01/01/" rel="alternate" type="text/html" title="new title" /><published>2000-01-01T16:46:32+09:00</published><updated>2000-01-01T16:46:32+09:00</updated><id>http://localhost:4000/blog/2000/01/my-first-blog-post</id><content type="html" xml:base="http://localhost:4000/blog/2000/01/01/"><![CDATA[<p><em>godlike</em></p>]]></content><author><name></name></author><summary type="html"><![CDATA[godlike]]></summary></entry></feed>
