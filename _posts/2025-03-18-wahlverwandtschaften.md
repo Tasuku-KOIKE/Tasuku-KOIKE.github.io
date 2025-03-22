@@ -69,7 +69,6 @@ Marcus Aurelius, Meditations, <a href="https://www.perseus.tufts.edu/hopper/text
 </blockquote>
 
 <blockquote>
-<center> <p style="text-align: start; width: 70%; margin-top: 0.5em;">
 The opposite of love is not hate; it's indifference.  </br>
 The opposite of art is not ugliness; it's indifference.  </br>
 The opposite of faith is not heresy; it's indifference.  </br>
