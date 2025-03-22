@@ -58,7 +58,7 @@ title: "Cosmopolitanism 世界という町に生きる"
         - 幼児記憶的命題として、ただの一般事実として暗記することと、
         - 成人記憶的エピソードとして、自分の人生を紡ぐ思い出として経験すること
         - 前者は後者への下地ときっかけになるという点で重要だが、やはり前者だけではぜったいに足りない
-        - "It doesn't matter what you cover in the class; it matters what you *dis*cover" (Victor Weisskopf, as ![qtd.](https://youtu.be/DdNAUJWJN08?t=1216) by Noam Chomsky)
+        - "It doesn't matter what you cover in the class; it matters what you *dis*cover" (Victor Weisskopf, as [qtd.](https://youtu.be/DdNAUJWJN08?t=1216) by Noam Chomsky)
 
 天下り的になるけど (という言い回しは数学者に多いそうだね) <s>　</s>
 
