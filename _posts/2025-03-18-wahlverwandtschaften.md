@@ -69,10 +69,10 @@ Marcus Aurelius, Meditations, <a href="https://www.perseus.tufts.edu/hopper/text
 </blockquote>
 
 <blockquote>
-The opposite of love is not hate; it's indifference.  </br>
-The opposite of art is not ugliness; it's indifference.  </br>
-The opposite of faith is not heresy; it's indifference.  </br>
-And the opposite of life is not death; it's indifference.  </br>
+The opposite of love is not hate; it's indifference.  <br>
+The opposite of art is not ugliness; it's indifference.  <br>
+The opposite of faith is not heresy; it's indifference.  <br>
+And the opposite of life is not death; it's indifference.  <br>
 Because of indifference, one dies before one actually dies. <br>
 <br>
 Elie Wiesel, <a href="https://www.oxfordreference.com/view/10.1093/acref/9780191826719.001.0001/q-oro-ed4-00011516">in U.S. News and World Report, 27 October 1986</a>
