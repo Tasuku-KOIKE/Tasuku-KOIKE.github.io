@@ -225,6 +225,14 @@ Edward Said - Reflections on Exile and Other Essays (interview) (43:21)<br>
 
 人類のスタンダード
 
+<blockquote>
+君に残された時間は短い。山奥にいるように生きよ。至るところで宇宙都市の一員のごとく生きるならば、ここにいようとかしこにいようと何のちがいもないのだ。<br>
+<br>
+The time you have left is short. Live it as if you were on a mountain. <b>Here or there makes no difference, if wherever you live you take the world as your city.</b><br>
+<br>
+Marcus Aurelius, Meditations, 10:15 (tr. 神谷美恵子, Martin Hammond)
+</blockquote>
+
 > **国内基準と国際基準を別のものと考えるのも日本の特徴です**。各都道府県が持つ緊急時の備蓄食料を海外の災害現場や難民発生地に提供することが出来ません。国際緊急援助隊が、阪神大震災のときに訓練という名目でしか出勤できませんでした。欧米の人間は、自分たちのスタンダード (標準) がそのまま国の内外で通用すると信じています。ですから臆することなく、その標準を国際社会で主張するのです。
 >
 > 国内用と国外用の二種類の制度をつくり、ことさらに「国際貢献」という発想をするのも、日本人が「内」と「外」は違うと思い込んでいるからでしょう。内と外を隔てる制度を取り除けば、国内の取り組みはそのまま世界で十分通用するのです。私はよく**「国内・国外一元化」**という言葉を使いますが、**この一元化なしに国際化もないし、国際貢献も難しいと思っています**。
@@ -236,14 +244,6 @@ Edward Said - Reflections on Exile and Other Essays (interview) (43:21)<br>
 小澤　まったくそう思います。僕も。<br>
 <br>
 小澤征爾・大江健三郎『同じ年に生まれて』p. 127
-</blockquote>
-
-<blockquote>
-君に残された時間は短い。山奥にいるように生きよ。至るところで宇宙都市の一員のごとく生きるならば、ここにいようとかしこにいようと何のちがいもないのだ。<br>
-<br>
-The time you have left is short. Live it as if you were on a mountain. <b>Here or there makes no difference, if wherever you live you take the world as your city.</b><br>
-<br>
-Marcus Aurelius, Meditations, 10:15 (tr. 神谷美恵子, Martin Hammond)
 </blockquote>
 
 <blockquote>
