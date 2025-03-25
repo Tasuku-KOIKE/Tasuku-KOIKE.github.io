@@ -111,7 +111,7 @@ blockquote {
   padding-left: 15px;
   font-size: 18px;
   letter-spacing: -1px;
-  font-style: italic;
+  font-style: normal;
 }
 blockquote > :last-child {
   margin-bottom: 0;
