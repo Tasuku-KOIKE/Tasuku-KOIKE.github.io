@@ -112,8 +112,8 @@ title: "Cosmopolitanism 世界という町に生きる"
     - 自身に刻まれた世界の傷に取り組もうとするならば、人類の基準、人類のスタンダードに生きるならば ~~　　~~
 - 大江さんの書簡集に手紙が収められている作家に、南アフリカのナディン・ゴーディマという人がいる。彼女の同時代であるネルソン・マンデラは27年間にわたる投獄中に彼女の小説を読んでおり、ゴーディマ自身、マンデラの投獄が言い渡された裁判に立ち会ったうちの一人だった
     - そんな彼女がアメリカを訪れたときのインタビューで、今まで自分の本が出版直後に禁書扱いされたことが何度もありながら、これを書いても日の目を見ることがないかもしれないと分かりつつ、それでも創作活動を続けることができるのはどうしてか、という質問があった
-    - ゴーディマは即答する。~~　　~~Well, it isn’t quite it if you write in a world-language! 世界の言葉で書くならば、そのようなことはないのです。確かに、今日も続く人種隔離に対して闘いをともにする南アフリカの仲間たちにこそ読んでほしいとねがう気持はある一方、自分の本が読まれるのが世界のどこであっても、自分がその読者へ与えることができる影響に変わりはないはずだから、と
-- だから、もし自分が誰かに、Professor S from C. university said that you should leave: don’t you now feel constrained by geography?　Ｃ大学のＳ教授が「君は出るべきだ」と言うなか、地理や国に縛られていると感じることはないのか？　と訊かれたとすれば、僕はこのように答えようと思う。~~　　~~Well, it isn’t quite it if you live by a world-standard! 人類の基準で生きるなら、そのようなことはない、と…
+    - ゴーディマは即答する。~~　　~~Well, it isn’t quite it if you write in the world-language! 世界の言葉で書くならば、そのようなことはないのです。確かに、今日も続く人種隔離に対して闘いをともにする南アフリカの仲間たちにこそ読んでほしいとねがう気持はある一方、自分の本が読まれるのが世界のどこであっても、自分がその読者へ与えることができる影響に変わりはないはずだから、と
+- だから、もし自分が誰かに、Professor S from C. university said that you should leave: don’t you now feel constrained by geography?　Ｃ大学のＳ教授が「君は出るべきだ」と言うなか、地理や国に縛られていると感じることはないのか？　と訊かれたとすれば、僕はこのように答えようと思う。~~　　~~Well, it isn’t quite it if you live by the world-standard! 人類の基準で生きるなら、そのようなことはない、と…
 
 <center><p style="margin-top: 1em; margin-bottom: 1em;"> <span style="font-size: 120%">☆　☆　☆</span> </p></center>
 
@@ -186,7 +186,7 @@ In R.W. Livingstone (Ed.), <i>The Legacy of Greece</i> (1921), p. 7<br>
 <a href="https://www.gutenberg.org/files/22259/22259-h/22259-h.htm">https://www.gutenberg.org/files/22259/22259-h/22259-h.htm</a>
 </blockquote>
 
-学びほぐす
+学びほぐす、身につける
 
 > to unlearn -- to make an effort to forget your usual way of doing something so that you can **learn a new and sometimes better way**
 >
@@ -223,7 +223,7 @@ Edward Said - Reflections on Exile and Other Essays (interview) (43:21)<br>
 <a href="https://www.youtube.com/watch?v=8EvoZ7vgu0A&t=2623s">https://www.youtube.com/watch?v=8EvoZ7vgu0A&t=2627s</a>
 </blockquote>
 
-人類のスタンダード
+世界という町に生きる <s>　　</s> 人類のスタンダードで、世界の言葉で
 
 <blockquote>
 The time you have left is short. Live it as if you were on a mountain. <b>Here or there makes no difference, if wherever you live you take the world as your city.</b><br>
@@ -267,7 +267,7 @@ Marcus Aurelius, Meditations, 10:15 (tr. Martin Hammond, 神谷美恵子)
 <blockquote>
 <i>You've had books banned in the past. That's such a foreign concept here [in the US]. What is it like to work and create and produce, knowing that the state might say this can never see the light of the day here?</i><br>
 <br>
-— <b>Well, it isn't quite it if you write in a world language</b>. So all of us who are benned there, who also published outside as well as in the country, at least know that we reach other people.<br>
+— <b>Well, it isn't quite it if you write in the world language</b>. So all of us who are benned there, who also published outside as well as in the country, at least know that we reach other people.<br>
 <br>
 But that's one thing, and you do want to be read by your own people in your own country.<br>
 <br>
