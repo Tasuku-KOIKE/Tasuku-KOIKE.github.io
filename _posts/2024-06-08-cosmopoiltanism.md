@@ -188,9 +188,11 @@ In R.W. Livingstone (Ed.), <i>The Legacy of Greece</i> (1921), p. 7<br>
 
 学びほぐす、身につける
 
-> to unlearn -- to make an effort to forget your usual way of doing something so that you can **learn a new and sometimes better way**
->
-> [https://dictionary.cambridge.org/dictionary/english/unlearn](https://dictionary.cambridge.org/dictionary/english/unlearn)
+<blockquote>
+to unlearn -- to make an effort to forget your usual way of doing something so that you can **learn a new and sometimes better way<br>
+<br>
+<a href="https://dictionary.cambridge.org/dictionary/english/unlearn">https://dictionary.cambridge.org/dictionary/english/unlearn</a>
+</blockquote>
 
 <blockquote>
 17歳の夏休み、ニューヨークの日本図書館ではたらいているときに、ヘレン・ケラーが手話の通訳とともにその図書館をたずねてきた。<br>
