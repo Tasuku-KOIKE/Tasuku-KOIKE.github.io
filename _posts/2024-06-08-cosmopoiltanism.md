@@ -213,7 +213,7 @@ unlearn の、鶴見さんによる定義は、次のようです。《<b>大学
 </blockquote>
 
 <blockquote>
-"I generally try to talk about the question of education, about the development of a critical consciousness, about education as a form of resistance against the invasion of the mind by wall-to-wall television, prepackaged news and the rest. There I feel I am continuing it." What are you worried about on ‘the wall-to-wall television, prepackaged news and the rest’? What impacts do they have on the United States?<br>
+<i>"I generally try to talk about the question of education, about the development of a critical consciousness, about education as a form of resistance against the invasion of the mind by wall-to-wall television, prepackaged news and the rest. There I feel I am continuing it." What are you worried about on ‘the wall-to-wall television, prepackaged news and the rest’? What impacts do they have on the United States?</i><br>
 <br>
 — Well, I think very very much. If most Americans get their news from television and television devotes very little time to coverage of the of the world outside the United States, you get basically very simple and homogenized images. For example, if you say Islam or Palestine or Arab, you immediately think of terrorism. And it's that kind of simple, inadequate, ahistorical coverage that worries me.<br>
 <br>
@@ -226,11 +226,11 @@ Edward Said - Reflections on Exile and Other Essays (interview) (43:21)<br>
 人類のスタンダード
 
 <blockquote>
-君に残された時間は短い。山奥にいるように生きよ。至るところで宇宙都市の一員のごとく生きるならば、ここにいようとかしこにいようと何のちがいもないのだ。<br>
-<br>
 The time you have left is short. Live it as if you were on a mountain. <b>Here or there makes no difference, if wherever you live you take the world as your city.</b><br>
 <br>
-Marcus Aurelius, Meditations, 10:15 (tr. 神谷美恵子, Martin Hammond)
+君に残された時間は短い。山奥にいるように生きよ。至るところで宇宙都市の一員のごとく生きるならば、ここにいようとかしこにいようと何のちがいもないのだ。<br>
+<br>
+Marcus Aurelius, Meditations, 10:15 (tr. Martin Hammond, 神谷美恵子)
 </blockquote>
 
 > **国内基準と国際基準を別のものと考えるのも日本の特徴です**。各都道府県が持つ緊急時の備蓄食料を海外の災害現場や難民発生地に提供することが出来ません。国際緊急援助隊が、阪神大震災のときに訓練という名目でしか出勤できませんでした。欧米の人間は、自分たちのスタンダード (標準) がそのまま国の内外で通用すると信じています。ですから臆することなく、その標準を国際社会で主張するのです。
