@@ -11,7 +11,7 @@ title: "ベンガル料理会"
 
 「断食をする目的をみなさんは考えたことがありますか？ダイエット？美容、健康？」
 
-~~　　~~みんなが、同じ、お腹が空いたのを、味わうため？貧乏な人の気持もわかるため？
+~~　　~~みんなが、同じ、お腹が空いたのを、味わうため？貧乏な人の気持もわかるため？<br>
 ~~　　~~断食するとお腹がスッキリするらしいから... 健康のため？
 
 <center><figure class="" title="4"><img src="/assets/images/2026-02-23/4.jpg" alt="Trulli"><figcaption><center>« 蛇！ »</center></figcaption></figure></center>
