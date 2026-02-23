@@ -14,7 +14,7 @@ title: "ベンガル料理会"
 <s>　　</s>みんなが、同じ、お腹が空いたのを、味わうため？貧乏な人の気持もわかるため？
 <s>　　</s>断食するとお腹がスッキリするらしいから... 健康のため？
 
-<center><figure class="" title="4"><img src="/assets/images/2026-02-23/3.jpg" alt="Trulli"><figcaption><center>« 蛇！ »</center></figcaption></figure></center>
+<center><figure class="" title="4"><img src="/assets/images/2026-02-23/4.jpg" alt="Trulli"><figcaption><center>« 蛇！ »</center></figcaption></figure></center>
 
 「世界で、自然に、お金持ちがあって、貧しい人があって、そういうようなしくみはどこにでもある。だから、断食をして、上から下まで、みんな同じ気持になって、お腹空いた人の苦しみも、いつもおいしいもの食べてる人もいっしょに味わって <s>　　 </s> 味わうために、断食やってます。」
 
